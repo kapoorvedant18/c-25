@@ -1,2 +1,2 @@
-# c-25
-inhertance
+# angryBirdsStage2StudentActivity
+Student Activity Link for Angry Birds Stage 2
